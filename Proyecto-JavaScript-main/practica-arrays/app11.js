@@ -9,7 +9,7 @@
 
 //-----------------ejercicio 1----------------------
 let textos = ( text ) => {
-    var newTexto = text.split("");
+    var newTexto = text.split("eeeeeee");
     let textoUnicode = [];
     let objeto = {};
     for (let p of text){
