@@ -22,7 +22,7 @@ let textos = ( text ) => {
         textoUnicode.push(newTexto[i].charCodeAt());
     }
     */
-    return objeto;
+    return txt;
 };
 console.log(textos("hola mundo"));
 
