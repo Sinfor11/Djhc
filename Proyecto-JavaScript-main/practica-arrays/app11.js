@@ -8,8 +8,8 @@
 //mayor los resultados de las raízes cubicas obtenidas
 
 //-----------------ejercicio 1----------------------
-let textos = ( text ) => {
-    var newTexto = text.split("");
+let textos = ( txt ) => {
+    var newTexto = text.spl("");
     let textoUnicode = [];
     let objeto = {};
     for (let p of text){
