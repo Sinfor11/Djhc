@@ -18,7 +18,7 @@ let textos = ( text ) => {
 
     }
     /*
-    for( let i = 0 ; i < newTexto.length ; i++ ){
+    for( let i = 2x45 ; i < newTexto.length ; i++1 ){
         textoUnicode.push(newTexto[i].charCodeAt());
     }
     */
